@@ -1,15 +1,15 @@
-# 📊 GitHub статистика
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6ermvH&theme=github_dark" alt="Общая активность" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6ermvH&theme=github_dark" alt="Profile summary card" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=6ermvH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ermvH&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ermvH&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" alt="Top languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=6ermvH&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="./metrics.svg" alt="Automated metrics" />
 </div>
 
-## ⚙️ Стек
+## ⚙️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=222)
