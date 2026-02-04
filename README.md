@@ -1,11 +1,13 @@
 <div align="center">
 
-## Hey there, I'm German
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+German;Backend+Developer;Go+%7C+C%2FC%2B%2B+%7C+Python" alt="Typing SVG" /></a>
 
-**Backend Developer / Saint Petersburg**
+**Saint Petersburg**
 
 I build backend services in Go and dig into low-level programming with C/C++.
 Focused on clean architecture, microservices and reliable systems.
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/gerashark)
 
 ---
 
@@ -23,6 +25,11 @@ Focused on clean architecture, microservices and reliable systems.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+### Currently learning
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
 
 ---
 
