@@ -26,6 +26,12 @@ Focused on clean architecture, microservices and reliable systems.
 
 ---
 
+### Currently working on
+
+[**Jira Tracker**](https://github.com/Go-Yadro-Group-1) — microservice platform for Jira analytics, built as a team project. I develop the [Jira-Connector](https://github.com/Go-Yadro-Group-1/Jira-Connector) service and [infrastructure](https://github.com/Go-Yadro-Group-1/infrastructure) (CI/CD, migrations, deployment).
+
+---
+
 ### Projects
 
 </div>
@@ -35,10 +41,11 @@ Focused on clean architecture, microservices and reliable systems.
 | [MerchShop](https://github.com/6ermvH/MerchShop) | Backend for a merch store with JWT auth and REST API | `Go` `Gin` `PostgreSQL` `Docker` |
 | [auth-service](https://github.com/6ermvH/auth-service) | Authentication microservice | `Go` `PostgreSQL` `Docker` |
 | [avito-reviewchecker](https://github.com/6ermvH/avito-reviewchecker) | Service for checking reviews on Avito with E2E tests | `Go` `Docker` `OpenAPI` |
+| [trash-bot](https://github.com/6ermvH/trash-bot) | Telegram bot for trash duty rotation with admin panel | `Go` `SQLite` `Gin` `Docker` |
 | [Fake-Reviewes-Detector](https://github.com/6ermvH/Fake-Reviewes-Detector) | ML-powered fake review detection system | `Python` |
+| [Storage-PC-Club](https://github.com/6ermvH/Storage-PC-Club) | PC club management system with integration tests | `C++` `GTest` |
 | [compression_plus](https://github.com/6ermvH/compression_plus) | Data compression algorithms implementation | `C++` |
-| [sysprog](https://github.com/6ermvH/sysprog) | System programming: threads, processes, networking | `C` |
-| [HARQ Algorithms](https://github.com/6ermvH/A-study-of-the-effectiveness-of-HARQ-algorithms) | Research on Hybrid ARQ algorithm effectiveness | `C++` |
+| [client-server](https://github.com/6ermvH/client-server) | Multithreaded client-server app over Linux sockets | `C++` `CMake` `pthreads` |
 
 <div align="center">
 
